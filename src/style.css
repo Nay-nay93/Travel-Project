@@ -14,7 +14,7 @@ header {
     background-size: cover;
     color: white;
     text-align: center;
-    padding: 200px;
+    padding: 200px 0;
 }
 
 header h1 {
@@ -50,6 +50,7 @@ header a {
     display: inline-block;    
     text-decoration: none;
     padding: 16px, 32px;
+    margin-top: 32px;
     
 }
 
